@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am Mark Oglekwu, currently developing my skills in the field of Software Engineering. I am focused on backend development and I love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-mac-oglekwu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mac-oglekwu/)](https://www.linkedin.com/in/mac-oglekwu/)
+[![Linkedin Badge](https://img.shields.io/badge/mac-oglekwu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mac-oglekwu/)](https://www.linkedin.com/in/mac-oglekwu/)
 [![Gmail Badge](https://img.shields.io/badge/-macogleks@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:macogleks@gmail.com)](mailto:macogleks@gmail.com)
 
 ## ⚡ Technologies
