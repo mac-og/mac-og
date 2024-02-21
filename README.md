@@ -1,7 +1,7 @@
 <!--
 ### Hi there 👋
 -->
-<h2 align="center">Welcome To My Page</h2>
+<h2 align="center">Welcome To My github Page</h2>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
